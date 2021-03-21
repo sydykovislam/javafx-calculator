@@ -9,10 +9,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Labeled;
 import javafx.scene.control.TextField;
 
-/**
- *
- * @author mrunal
- */
+
 public class Controller implements Initializable {
 
     @FXML
@@ -166,7 +163,7 @@ public class Controller implements Initializable {
     }
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        // TODO
+
     }
 
 }
