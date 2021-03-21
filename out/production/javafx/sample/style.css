@@ -1,0 +1,19 @@
+.button{
+    -fx-background-color: #2d2d2d;
+    -fx-border-color: black;
+
+}
+
+.button:hover{
+
+    -fx-text-fill: white ;
+}
+
+#tf{
+    -fx-background-color: #080101;
+    -fx-text-fill : white;
+}
+#tf2{
+    -fx-background-color: #080101;
+    -fx-text-fill: whitesmoke;
+} 
